@@ -5,7 +5,8 @@
 can perform fast calculations for both the B-field and the magnetic
 force simultaneously for a PMA consisting of cuboid magnets.
 ![Logo](https://github.com/TingouLiang/MagTetris/blob/main/MagTetris%20Logo.png?raw=true)
-Detailed framework can be found below,
+Detailed framework can be found at this paper below,
+
 Ting-Ou Liang, Yan Hao Koh, Tie Qiu, Erping Li, Wenwei Yu, Shao Ying Huang,
 *MagTetris: A simulator for fast magnetic field and force calculation for permanent magnet array designs,
 Journal of Magnetic Resonance*,
