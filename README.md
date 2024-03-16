@@ -1,17 +1,11 @@
 
 # MagTetris: A simulator for fast magnetic field and force calculation for permanent magnet array designs
 
-We propose a simulator named `MagTetris` that
+`MagTetris` is a simulator that
 can perform fast calculations for both the B-field and the magnetic
 force simultaneously for a PMA consisting of cuboid magnets.
 
 ![Logo](https://github.com/TingouLiang/MagTetris/blob/main/MagTetris%20Logo.png?raw=true)
-
-
-## Contributors
-
-- Ting-Ou Liang (Major programming of MagTetris class): tingou_liang@mymail.sutd.edu.sg
-- Junqi Yang (Visualization of magnetization): 22wd9202@student.gs.chiba-u.jp
 
 
 ## Related Publication
